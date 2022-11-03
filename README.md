@@ -18,17 +18,16 @@ Tech used :
           * Cloudinary (To host uploaded images on CDN)
           
           
- [Live Heroku Deployment](https://twitter-replit.tydurgin.repl.co/)
+ [Live Replit Deployment]()
  
  
-##Screenshot. 
+## Screenshot. 
+
+<img width="769" alt="Screenshot 2022-11-02 212219" src="https://user-images.githubusercontent.com/110957676/199631699-4757b0d1-90b1-4a07-9804-03f5da342cac.png">
 
 
 
 
-
-
-![Screenshot 2022-10-04 12 12 43 PM](https://user-images.githubusercontent.com/105753588/193906022-4b0f677b-edcd-4dc4-ad89-62c880ec0d73.png)
 
 
 
